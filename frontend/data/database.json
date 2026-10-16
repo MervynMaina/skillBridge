@@ -1,0 +1,112 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "slug": "senior-software-engineer",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "TechCorp Innovations", 
+      "discretion": "fulltime",
+      "location": "San Francisco, CA",
+      "jobDescription": "Looking for a Senior Software Engineer with 5+ years of experience in React, Node.js, and cloud infrastructure to lead frontend architecture and scale core services."
+    },
+    {
+      "id": "2",
+      "slug": "product-designer",
+      "jobTitle": "Product Designer",
+      "companyName": "CreativePulse Media",
+      "discretion": "parttime",
+      "location": "Remote",
+      "jobDescription": "Seeking a creative UI/UX designer to collaborate with cross-functional teams to craft intuitive web and mobile interfaces. Figma proficiency required."
+    },
+    {
+      "id": "3",
+      "slug": "devops-consultant",
+      "jobTitle": "DevOps Consultant",
+      "companyName": "CloudScale Solutions",
+      "discretion": "contract",
+      "location": "Austin, TX",
+      "jobDescription": "6-month contract opportunity to design CI/CD pipelines, automate Kubernetes clusters, and optimize AWS infrastructure security."
+    },
+    {
+      "id": "4",
+      "slug": "data-analyst",
+      "jobTitle": "Data Analyst",
+      "companyName": "Apex Financials",
+      "discretion": "fulltime",
+      "location": "New York, NY",
+      "jobDescription": "Analyze complex financial datasets using SQL and Python to build interactive executive dashboards and support strategic decision-making."
+    },
+    {
+      "id": "5",
+      "slug": "digital-marketting-specialist",
+      "jobTitle": "Digital Marketing Specialist",
+      "companyName": "GrowthLab Agency",
+      "discretion": "parttime",
+      "location": "Chicago, IL",
+      "jobDescription": "Manage SEO, SEM, and multi-channel paid social campaigns to drive organic traffic and optimize conversion funnels for client projects."
+    },
+    {
+      "id": "6",
+      "slug": "cynersecurity-auditor",
+      "jobTitle": "Cybersecurity Auditor",
+      "companyName": "Sentinel Security",
+      "discretion": "contract",
+      "location": "Remote",
+      "jobDescription": "Execute vulnerability assessments and SOC 2 compliance audits for enterprise clients on a 3-month contract basis."
+    },
+    {
+      "id": "7",
+      "slug": "customer-success-manager",
+      "jobTitle": "Customer Success Manager",
+      "companyName": "SaaSify Global",
+      "discretion": "contract",
+      "location": "Seattle, WA",
+      "jobDescription": "Own post-onboarding relationships for enterprise clients, driving product adoption, retention, and account expansion."
+    }
+  ],
+  "contact": [
+    {
+      "name": "Victor Simiyu",
+      "email": "charlesvictor369@gmail.com",
+      "phone": "+254798161654",
+      "message": "Test number 1 for contact form",
+      "id": "K4Bds6IzzEA"
+    },
+    {
+      "name": "Victor Simiyu",
+      "email": "charlesvictor369@gmail.com",
+      "phone": "+254798161654",
+      "message": "Test number 1 for contact form",
+      "id": "cfhvwryOKhA"
+    },
+    {
+      "name": "Victor Simiyu",
+      "email": "charlesvictor369@gmail.com",
+      "phone": "+254798161654",
+      "message": "Test redirect",
+      "id": "R_As1ZbCb-8"
+    },
+    {
+      "name": "Jane Wangui",
+      "email": "jane@gmail.com",
+      "phone": "0798161654",
+      "message": "Test toast",
+      "id": "AgMkujBwBno"
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "message": "",
+      "id": "mhVD8SHRKJg"
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "message": "",
+      "id": "Ij8ynmjqFxs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
